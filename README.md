@@ -6,4 +6,4 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/BeattrizAndrade/telamobile-figma/blob/master/IMG/tela-mobile-v.png?raw=true>
+<img src="https://github.com/BeattrizAndrade/telamobile-figma/blob/master/IMG/tela-mobile-v.png?raw=true">
