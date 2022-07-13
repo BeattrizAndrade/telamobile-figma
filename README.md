@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<p> Tela de Login para Mobile, extraido do figma, para praticar </p>
+<p> Tela de Login para Mobile, extraido do figma, para praticar os conhecimentos de HTML e CSS. </p>
 <br>
 <br>
 <br>
