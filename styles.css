@@ -44,7 +44,7 @@ input::placeholder {
     font-size: 13px;
     line-height: 15px;
     color: #000000;
-    margin: 35px 30px 38px 0;
+    margin: 35px 600px 38px 0;
     display: block;
     text-align: right;
     text-decoration: none;
@@ -52,6 +52,7 @@ input::placeholder {
 }
 
 button{
+    cursor: pointer;
     display: block;
     margin: 0 auto;
     background: #323232;
@@ -65,6 +66,7 @@ button{
     font-size: 15px;
     line-height: 18px;
     color:#ffffff
+    
     
     
     
